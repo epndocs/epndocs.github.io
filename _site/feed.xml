@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+	<channel>
+		<title>Cisco EPN @epndocs</title>
+		<description>Design Documentations, Deployment Models, YANG Models and Configurations for EPN System</description>
+		<link>http://localhost:4000</link>
+		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+		
+                  
+			<item>
+				<title>Frequently Asked Questions?</title>
+				
+					<dc:creator>Ahmed Abeer</dc:creator>
+				
+				
+					<description>&lt;p&gt;Q1. What is the major difference betweem EPN 5.0 and EPN 4.0?
+Ans.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Fri, 14 Apr 2017 17:05:00 +0000</pubDate>
+				<link>http://localhost:4000/getting-started/why-@epndocs</link>
+				<guid isPermaLink="true">http://localhost:4000/getting-started/why-@epndocs</guid>
+			</item>
+                  
+		
+                  
+			<item>
+				<title>What is Evolved Programmable Network EPN?</title>
+				
+					<dc:creator>Ahmed Abeer</dc:creator>
+				
+				
+					<description>&lt;p&gt;A Programmable, Physical, and Virtual Infrastructure&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Fri, 14 Apr 2017 17:05:00 +0000</pubDate>
+				<link>http://localhost:4000/getting-started/why-@epndocs</link>
+				<guid isPermaLink="true">http://localhost:4000/getting-started/why-@epndocs</guid>
+			</item>
+                  
+		
+                  
+			<item>
+				<title>Why EPN?</title>
+				
+					<dc:creator>Ahmed Abeer</dc:creator>
+				
+				
+					<description>&lt;p&gt;Grow Your Business with Your Existing Infrastructure&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Fri, 14 Apr 2017 17:05:00 +0000</pubDate>
+				<link>http://localhost:4000/getting-started/why-@epndocs</link>
+				<guid isPermaLink="true">http://localhost:4000/getting-started/why-@epndocs</guid>
+			</item>
+                  
+		
+	</channel>
+</rss>

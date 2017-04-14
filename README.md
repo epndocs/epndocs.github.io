@@ -1,2 +1,2 @@
-# @xrdocs
-The Home Page for @xrdocs. Head over to:  <https://xrdocs.github.io>
+# @epndocs
+The Home Page for @epndocs. Go to:  <https://epndocs.github.io>

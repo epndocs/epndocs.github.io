@@ -10,7 +10,7 @@ header:
   cta_label: "<i class='fa fa-step-forward'></i> Get Started!"
   cta_url: "/getting-started"
   caption:
-excerpt: 'A Validated, Programmable, and Cost-Optimized Network Solution<br/> Design Documents, Doployment Models, YANG Models and Configurations all @epndocs<br /><small>Current Release: 5.0<br><br>{::nomarkdown}<iframe style="display: inline-block;margin-left:85px" src="https://ghbtns.com/github-btn.html?user=epndocs&type=follow&size=large" frameborder="0" scrolling="0" width="260px" height="30px"></iframe>{:/nomarkdown}</small><br /><br />'
+excerpt: 'A Validated, Programmable, and Cost-Optimized Network Solution<br/> Design Documents, Deployment Models, YANG Models and Configurations all @epndocs<br /><small>Current Release: 5.0<br><br>{::nomarkdown}<iframe style="display: inline-block;margin-left:85px" src="https://ghbtns.com/github-btn.html?user=epndocs&type=follow&size=large" frameborder="0" scrolling="0" width="260px" height="30px"></iframe>{:/nomarkdown}</small><br /><br />'
 feature_row:
   - image_path: old_epn_pic.jpg
     alt: "fully responsive"

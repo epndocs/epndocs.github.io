@@ -2,7 +2,7 @@
 published: true
 date: '2017-04-14 10:05 -0700'
 title: What is Evolved Programmable Network EPN?
-permalink: /getting-started/why-@epndocs
+permalink: /getting-started/whatis-@epndocs
 author: Ahmed Abeer
 tags:
   - epn

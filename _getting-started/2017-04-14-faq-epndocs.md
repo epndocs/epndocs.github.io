@@ -2,7 +2,7 @@
 published: true
 date: '2017-04-14 10:05 -0700'
 title: EPN 5.0 Release Highlights
-permalink: /getting-started/why-@epndocs
+permalink: /getting-started/faq-@epndocs
 author: Ahmed Abeer
 tags:
   - epn
